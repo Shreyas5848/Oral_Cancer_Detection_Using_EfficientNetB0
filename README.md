@@ -39,11 +39,13 @@ python app.py
 The app will run locally at: http://127.0.0.1:5000/
 
 **📊 Model Training**
+
 The model is trained using a CNN and/or EfficientNetB0.
 Class weights are used to address class imbalance.
 You can retrain using the train_model.ipynb notebook with your own dataset.
 
 **🧪 Future Enhancements**
+
 Add user authentication and upload history.
 Improve dataset diversity and quality.
 Include heatmaps or Grad-CAM for model interpretability.
