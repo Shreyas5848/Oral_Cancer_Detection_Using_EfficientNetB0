@@ -9,7 +9,7 @@ A web-based deep learning application for early detection of **oral cancer** usi
 ## 🚀 Features
 
 - Upload oral cavity images via an intuitive UI.
-- Predicts "Benign" or "Malignant" using a CNN or **EfficientNetB0** model.
+- Predicts "Benign" or "Malignant" using a CNN / **EfficientNetB0** model.
 - Lightweight Flask backend with real-time inference.
 - Preprocessing and training notebooks included.
 - Uses class weighting to address data imbalance.
