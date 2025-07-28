@@ -34,9 +34,7 @@ Install Dependencies
 Make sure you have Python 3.8+ and pip installed.
 pip install -r requirements.txt
 
-Run the Application
-python app.py
-The app will run locally at: http://127.0.0.1:5000/
+
 
 📊 Model Training
 
